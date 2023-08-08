@@ -4,5 +4,5 @@ Nome: Gustavo Valença Marcilio
 Oque faço: Estudante
 Colégio: Dr. Gabriel Carneiro Martins
 
-Linguagens usadas: HTML
+Linguagens usadas: HTML, CSS
 Referências: Alura, Visual Studio Code
